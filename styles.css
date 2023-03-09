@@ -1,0 +1,22 @@
+    body {
+        background-image: url(https://cdn.shopify.com/s/files/1/0410/1053/articles/anyatranslation-featuredimage.jpg?v=1653587352);
+    }
+    
+    pre {
+        text-align: center;
+    }
+    
+    .name {
+        text-align: center;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+	
+	p:hover{
+		background-color: yellow;
+	}
+	a:visited{
+		text-color:red;
+	}
